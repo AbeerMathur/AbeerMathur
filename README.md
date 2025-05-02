@@ -20,6 +20,7 @@ Hello there! I'm Abeer Mathur, a passionate tech enthusiast with a background in
 
 ## Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+```
           _____                    _____                    _____                    _____                    _____          
          /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
         /::\    \                /::\    \                /::\    \                /::\    \                /::\    \        
@@ -42,6 +43,7 @@ Hello there! I'm Abeer Mathur, a passionate tech enthusiast with a background in
         \::/    /                \::/____/                \::/    /                \::/    /                \:|   |          
          \/____/                  ~~                       \/____/                  \/____/                  \|___|          
                                                                                                                              
+```
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
