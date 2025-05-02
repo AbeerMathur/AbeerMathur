@@ -18,10 +18,6 @@ Hello there! I'm Abeer Mathur, a passionate tech enthusiast with a background in
 ## 👩‍💻 IDE:
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Latest Blogs:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbeerMathur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerMathur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
