@@ -18,21 +18,37 @@ Hello there! I'm Abeer Mathur, a passionate tech enthusiast with a background in
 ## 👩‍💻 IDE:
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## Latest Blogs:
+<!-- BLOG-POST-LIST:START -->
+          _____                    _____                    _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
+        /::\    \                /::\    \                /::\    \                /::\    \                /::\    \        
+       /::::\    \              /::::\    \              /::::\    \              /::::\    \              /::::\    \       
+      /::::::\    \            /::::::\    \            /::::::\    \            /::::::\    \            /::::::\    \      
+     /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \     
+    /:::/__\:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/__\:::\    \    
+   /::::\   \:::\    \      /::::\   \:::\    \      /::::\   \:::\    \      /::::\   \:::\    \      /::::\   \:::\    \   
+  /::::::\   \:::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \  
+ /:::/\:::\   \:::\    \  /:::/\:::\   \:::\ ___\  /:::/\:::\   \:::\    \  /:::/\:::\   \:::\    \  /:::/\:::\   \:::\____\ 
+/:::/  \:::\   \:::\____\/:::/__\:::\   \:::|    |/:::/__\:::\   \:::\____\/:::/__\:::\   \:::\____\/:::/  \:::\   \:::|    |
+\::/    \:::\  /:::/    /\:::\   \:::\  /:::|____|\:::\   \:::\   \::/    /\:::\   \:::\   \::/    /\::/   |::::\  /:::|____|
+ \/____/ \:::\/:::/    /  \:::\   \:::\/:::/    /  \:::\   \:::\   \/____/  \:::\   \:::\   \/____/  \/____|:::::\/:::/    / 
+          \::::::/    /    \:::\   \::::::/    /    \:::\   \:::\    \       \:::\   \:::\    \            |:::::::::/    /  
+           \::::/    /      \:::\   \::::/    /      \:::\   \:::\____\       \:::\   \:::\____\           |::|\::::/    /   
+           /:::/    /        \:::\  /:::/    /        \:::\   \::/    /        \:::\   \::/    /           |::| \::/____/    
+          /:::/    /          \:::\/:::/    /          \:::\   \/____/          \:::\   \/____/            |::|  ~|          
+         /:::/    /            \::::::/    /            \:::\    \               \:::\    \                |::|   |          
+        /:::/    /              \::::/    /              \:::\____\               \:::\____\               \::|   |          
+        \::/    /                \::/____/                \::/    /                \::/    /                \:|   |          
+         \/____/                  ~~                       \/____/                  \/____/                  \|___|          
+                                                                                                                             
+<!-- BLOG-POST-LIST:END -->
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbeerMathur&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbeerMathur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerMathur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbeerMathur&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=manvendrasingh09&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
