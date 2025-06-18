@@ -3,8 +3,6 @@
 </h1>
 <h3 align="center">A passionate computer science student with background in AI/ML</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abeermathur&label=Profile%20views&color=0e75b6&style=flat" alt="abeermathur" /> </p>
-
 ## 💫 About Me:
 Hello there! I'm Abeer Mathur, a passionate tech enthusiast with a background in Computer Science. Currently, I'm pursuing my undergraduate degree in Computer Science at VIT Vellore and actively engaged in a part-time BS program at IIT Madras. My journey in the world of technology is marked by a deep interest in coding, with proficiency in Python, C++, and Java. What truly excites me is the intersection of technology and machine learning, and I'm on a continuous learning path to explore its possibilities.<br><br>In addition to my technical pursuits, I have a strong inclination towards research, specifically in the domain of machine learning. I find the challenges and opportunities in this space incredibly intriguing, and I'm committed to making valuable contributions. My GitHub repository is a reflection of my coding adventures, experiments with machine learning, and forays into the world of cybersecurity. Here, you'll find a collection of my projects, each telling a unique story of exploration and learning.<br><br>Feel free to explore, collaborate, and connect with me. Let's embark on this coding and machine learning journey together! <br><br> Find out more at: <a href="https://abeermathur.in/">My Personal Website</a>
 
@@ -21,6 +19,8 @@ Hello there! I'm Abeer Mathur, a passionate tech enthusiast with a background in
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbeerMathur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerMathur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abeermathur&label=Profile%20views&color=0e75b6&style=flat" alt="abeermathur" /> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbeerMathur&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
